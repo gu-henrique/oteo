@@ -19,7 +19,7 @@
 }
 
 .degrade h1{
-    color: black;
+    color: #FFF;
 }
 
 @keyframes degrade-animado {
