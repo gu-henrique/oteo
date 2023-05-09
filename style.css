@@ -14,7 +14,7 @@
     align-items: center;
     justify-content: center;
     background-image: linear-gradient(45deg, blue, orangered, yellow);
-    background-size: 500% 100%;
+    background-size: 100% 100%;
     animation: degrade-animado 5s infinite alternate ;
 }
 
